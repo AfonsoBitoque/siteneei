@@ -49,7 +49,7 @@ export default async function handler(request: Request) {
     }
 
     // 3. Configuração da API
-    const apiKey = process.env.API_KEY;
+    const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
       return new Response(JSON.stringify({ 
         status: 'ERROR',
