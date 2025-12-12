@@ -34,7 +34,7 @@ const About: React.FC = () => {
   ];
 
   const mesaPlenario = [
-    { name: 'Francisco Molo', role: 'Presidente', image: franciscomolo },
+    { name: 'Francisco Melo', role: 'Presidente', image: franciscomolo },
     { name: 'Leonardo Cantachini', role: 'Vice-Presidente', image: leonardocantachini },
     { name: 'Afonso Francisco', role: 'Secretário', image: afonsofrancisco },
     { name: 'Simão Reis', role: 'Primeiro Suplente', image: simaoreis },
