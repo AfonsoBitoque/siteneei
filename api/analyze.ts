@@ -1,0 +1,1 @@
+// Este ficheiro foi desativado pois a funcionalidade de IA foi removida.
